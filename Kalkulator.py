@@ -4,6 +4,7 @@ def dodaj():
 	print (int(a)+int(b))
 
 def gethelp():
-	pass
-	
+	print("To jest prosty kalkulator")
+	print("Podaj dwie liczby, a ja je dodam")
+gethelp()	
 dodaj()	
