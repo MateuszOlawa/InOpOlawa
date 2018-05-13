@@ -5,4 +5,4 @@ def dodaj():
 	print (int(a)+int(b))	
 x=int(input())
 y=int(input())
-dodaj()	
+dodaj(x,y)	
